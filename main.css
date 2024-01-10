@@ -6,7 +6,7 @@
 
 body {
   margin: auto;
-  font-family: Verdana, sans-serif
+  font-family: Verdana, sans-serif;
 }
 
 .calculator {
@@ -16,7 +16,6 @@ body {
   flex-flow: row wrap;
   background: #000000;
   gap: 4px;
-  font-family: Tahoma, sans-serif;
   font-size: 36px;
 }
 
@@ -26,6 +25,7 @@ body {
   color: #ffffff;
   text-align: right;
   padding: 20px 5px;
+  font-family: monospace;
 }
 
 .btn {
